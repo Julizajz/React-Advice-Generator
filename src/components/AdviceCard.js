@@ -6,7 +6,7 @@ const AdviceCard = () => {
     <div>
         <h1>Advice #1</h1>
         <p>advice</p>
-        <img src ={dividerDesktop} alt='card-divider'/>
+        <img src ={dividerDesktop} alt='card-dividder'/>
         <DiceButtton/>
 
     </div>
